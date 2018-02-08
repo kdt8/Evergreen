@@ -193,7 +193,7 @@ Open the patron record in edit mode as described in the section
  
 Next to the _Barcode_ field, select the _Replace Barcode_ button.
 
-image::media/circulation_patron_records-13.png[circulation_patron_records 13]
+* image::media/circulation_patron_records-13.png[circulation_patron_records 13]
 
 This will clear the barcode field.  Enter a new barcode and _Save_ the record.
 The screen will refresh and the new barcode will display in the patron summary
