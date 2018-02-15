@@ -117,7 +117,7 @@ image::media/holds-managing-8.png[holds-managing-8]
 Transferring Holds
 ^^^^^^^^^^^^^^^^^^
 
-. Holds on one title can be transferred to another with the hold request time preserved. To do so, you need to find the destination title and click _Actions for this Record_ -> _Mark as Title Hold Transfer Destination_.
+. Holds on one title can be transferred to another with the hold request time preserved. To do so, you need to find the destination title and click _Actions_ -> _Mark as Title Hold Transfer Destination_.
 +
 image::media/holds-managing-9.png[holds-managing-9]
 +
@@ -128,7 +128,7 @@ image::media/holds-managing-10.png[holds-managing-10]
 Cancelled Holds
 ^^^^^^^^^^^^^^^
 
-. Cancelled holds can be displayed. Click the _Show Cancelled Holds_ button on the _Holds_ screen.
+. Cancelled holds can be displayed. Click the _Recently Cancelled Holds_ button on the _Holds_ screen.
 +
 image::media/holds-managing-11.png[holds-managing-11]
 +
