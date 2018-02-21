@@ -167,11 +167,11 @@ Managing Holds in Title Records
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 . Retrieve and display the title record in the catalog.
-. Click _Actions for this Record_ -> _View Holds_.
+. Click _Actions_ -> _View Holds_.
 +
 image::media/holds-managing-17.png[holds-managing-17]
 +
-. All holds on this title to be picked up at your library are displayed. Use the _Filter_ checkbox and _Pickup Library_ to view holds to be picked up at other libraries.
+. All holds on this title to be picked up at your library are displayed. Use the _Pickup Library_ to view holds to be picked up at other libraries.
 +
 image::media/holds-managing-18.png[holds-managing-18]
 +
@@ -193,11 +193,11 @@ Holds need to be retargeted whenever a new item is added to a record, or after s
 
 . Click on the head of the status column.
 
-. Under _Actions for Selected Holds_ (Alt+S), select _Find Another Target_ (Alt+T)
+. Under _Actions_, select _Find Another Target_.
 
 . A window will open asking if you are sure you would like to reset the holds for these items.
 
-. Click _Yes_ (Alt+Y). Nothing may appear to happen, or if you are retargeting a lot of holds at once, your screen may go blank or seem to freeze for a moment while the holds are retargeted.
+. Click _Yes_. Nothing may appear to happen, or if you are retargeting a lot of holds at once, your screen may go blank or seem to freeze for a moment while the holds are retargeted.
 
 . When the screen refreshes, the holds will be retargeted. The system will now recognize the new items as available for holds.
 
@@ -242,7 +242,7 @@ image::media/holds-pull-3.png[holds-pull-3]
 
 * _Print Full Pull List (Alternate Strategy)_ prints the same fields as the above option but also includes a patron barcode. This list will also first sort by copy location, as ordered under _Admin_ -> _Local Administration_ -> _Copy Location Order_.
 
-* _Save List CSV to File_ – This option is available from the _List Actions_ button and saves all fields in the screen display to a CSV file. This file can then be opened in Excel or another spreadsheet program. This option provides more flexibility in identifying fields that should be printed.
+* _Download CSV_ – This option is available from the _List Actions_ button (adjacent to the _Page "#"_ button) and saves all fields in the screen display to a CSV file. This file can then be opened in Excel or another spreadsheet program. This option provides more flexibility in identifying fields that should be printed.
 +
 image::media/holds-pull-4.png[holds-pull-4]
 +
