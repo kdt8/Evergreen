@@ -257,21 +257,21 @@ Capturing Holds
 
 Holds can be captured when a checked-out item is returned (checked in) or an item on the _Holds Pull List_ is retrieved and captured. When a hold is captured, the hold slip will be printed and if the patron has chosen to be notified by email, the email notification will be sent out. The item should be put on the hold shelf.
 
-. To capture a hold, select _Circulation_ -> _Capture Holds_; click _Check In_ -> _Capture Holds_ on the circulation toolbar; or hit _Shift-F2_.
+. To capture a hold, select _Circulation_ -> _Capture Holds_.
 +
 image::media/holds-pull-5.png[holds-pull-5]
 +
-image::media/holds-pull-5a.png[holds-pull-5a]
+* image::media/holds-pull-5a.png[holds-pull-5a]
 +
 . Scan or type barcode and click _Submit_.
 +
 image::media/holds-pull-6.png[holds-pull-6]
 +
-. The following hold slip is automatically printed. (This slip will not display on the _Capture Holds_ screen, but will display on a _Check In_ screen not set to automatically print slips.)
+. The following hold slip is automatically printed. A print window will appear for the hold slip contents
 +
 image::media/holds-pull-7.png[holds-pull-7]
 +
-. If the item should be sent to another location, a hold transit slip will be printed. (This slip will not display on the _Capture Holds_ screen, but may display on a _Check In_ screen that is not set to automatically print slips.)
+. If the item should be sent to another location, a print window will appear for the hold slip contents.
 +
 image::media/holds-pull-8.png[holds-pull-8]
 +
@@ -300,8 +300,6 @@ Holds Notification Methods
 +
 image::media/holds-notifications-1.png[holds-notifications-1]
 +
-The ``Default Phone Number'' option is the default for those users who have not yet set a preference.
-
 . Patrons with a default notification preference for phone will see their phone number at the time they place a hold. The checkboxes for email and phone notification will also automatically be checked.
 +
 image::media/holds-notifications-2.png[holds-notifications-2]
