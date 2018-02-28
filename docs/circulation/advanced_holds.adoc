@@ -257,21 +257,21 @@ Capturing Holds
 
 Holds can be captured when a checked-out item is returned (checked in) or an item on the _Holds Pull List_ is retrieved and captured. When a hold is captured, the hold slip will be printed and if the patron has chosen to be notified by email, the email notification will be sent out. The item should be put on the hold shelf.
 
-. To capture a hold, select _Circulation_ -> _Capture Holds_; click _Check In_ -> _Capture Holds_ on the circulation toolbar; or hit _Shift-F2_.
+. To capture a hold, select _Circulation_ -> _Capture Holds_.
 +
 image::media/holds-pull-5.png[holds-pull-5]
 +
-image::media/holds-pull-5a.png[holds-pull-5a]
+* image::media/holds-pull-5a.png[holds-pull-5a]
 +
 . Scan or type barcode and click _Submit_.
 +
 image::media/holds-pull-6.png[holds-pull-6]
 +
-. The following hold slip is automatically printed. (This slip will not display on the _Capture Holds_ screen, but will display on a _Check In_ screen not set to automatically print slips.)
+. The following hold slip is automatically printed. A print window will appear for the hold slip contents
 +
 image::media/holds-pull-7.png[holds-pull-7]
 +
-. If the item should be sent to another location, a hold transit slip will be printed. (This slip will not display on the _Capture Holds_ screen, but may display on a _Check In_ screen that is not set to automatically print slips.)
+. If the item should be sent to another location, a print window will appear for the hold slip contents.
 +
 image::media/holds-pull-8.png[holds-pull-8]
 +
@@ -300,13 +300,11 @@ Holds Notification Methods
 +
 image::media/holds-notifications-1.png[holds-notifications-1]
 +
-The ``Default Phone Number'' option is the default for those users who have not yet set a preference.
-
-. Patrons with a default notification preference for phone will see their phone number at the time they place a hold. The checkboxes for email and phone notification will also automatically be checked.
+. Patrons with a default notification preference for phone will see their phone number at the time they place a hold. The checkboxes for email and phone notification will also automatically be checked (if an email or phone number has been assigned to the account).
 +
 image::media/holds-notifications-2.png[holds-notifications-2]
 +
-. The patron can remove these checkmarks at the time they place the hold or they can enter a different phone number if they prefer to be contacted at a different number. The patron cannot change their e-mail address at this time.
+. The patron can remove these checkmarks at the time they place the hold or they can enter a different phone number in the phone number text boxes if they prefer to be contacted at a different number. The patron cannot change their e-mail address at this time.
 +
 image::media/holds-notifications-3.png[holds-notifications-3]
 +
@@ -320,11 +318,11 @@ If the patron changes their contact telephone number when placing the hold, this
 Clearing Shelf-Expired Holds
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-. Items with _Ready-for-Pickup_ status are on the _Holds Shelf List_. The _Holds Shelf List_ can help you manage items on the holds shelf. To see the holds shelf list, select _Circulation_ -> _Browse Holds Shelf_.
+. Items with _Ready-for-Pickup_ status are on the _Holds Shelf_. The _Holds Shelf_ can help you manage items on the holds shelf. To see the holds shelf list, select _Circulation_ -> _Holds Shelf_.
 +
 image::media/holds-clearing-1.png[holds-clearing-1]
 +
-. The _Holds Shelf List_ is displayed. Note the _Actions for Selected Holds_ are available, as in the patron record.
+. The _Holds Shelf_ is displayed. Note the _Actions for Selected Holds_ are available, as in the patron record.
 +
 You can cancel stale holds here.
 +
@@ -334,9 +332,9 @@ image::media/holds-clearing-2.png[holds-clearing-2]
 +
 image::media/holds-clearing-3.png[holds-clearing-3]
 +
-. Check the _View Clearable Holds_ checkbox to list expired holds, wrong-shelf holds and canceled holds only. Expired holds are holds that expired before today's date.
+. Check the _View Clearable Holds_ button to list expired holds, wrong-shelf holds and canceled holds only. Expired holds are holds that expired before today's date.
 
-. Click the _Print_ button if you need a printed list. To format the printout customize the *Holds_shelf* receipt template. This can be done in _Admin_ -> _Workstation Administration_ -> _Receipt Template Editor_.
+. Click the _Print Full List_ button if you need a printed list. To format the printout customize the *Holds Shelf* receipt template. This can be done in _Administration_ -> _Workstation_ -> _Print Templates_.
 
 . The _Clear These Holds_ button is lit up. Click it and the expired holds will be canceled.
 +
