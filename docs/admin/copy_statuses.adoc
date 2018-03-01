@@ -65,7 +65,7 @@ wish for this status to set the active date for new items.
 . Click _Save Changes_ at the bottom of the screen to save changes to the new
 status.
 
-(New screenshot here)
+(new screenshot here)
 
 Deleting Copy Statuses
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -74,6 +74,8 @@ Deleting Copy Statuses
 status.
 . Click _Delete Selected_.
 . Click _OK_ to verify.
+
+(new screenshot here)
 
 [NOTE]
 You will not be able to delete statuses if copies currently exist with that
@@ -87,3 +89,5 @@ Editing Copy Statuses
 copy's active date, check or uncheck the relevant checkbox.
 
 . Once you have finished editing the statuses, remember to click Save Changes.
+
+(new screenshot here)
