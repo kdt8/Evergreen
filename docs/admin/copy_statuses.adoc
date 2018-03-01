@@ -65,6 +65,8 @@ wish for this status to set the active date for new items.
 . Click _Save Changes_ at the bottom of the screen to save changes to the new
 status.
 
+(New screenshot here)
+
 Deleting Copy Statuses
 ~~~~~~~~~~~~~~~~~~~~~~
 
