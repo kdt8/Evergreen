@@ -90,4 +90,4 @@ copy's active date, check or uncheck the relevant checkbox.
 
 . Once you have finished editing the statuses, remember to click Save Changes.
 
-(new screenshot here)
+(new screenshot here).
