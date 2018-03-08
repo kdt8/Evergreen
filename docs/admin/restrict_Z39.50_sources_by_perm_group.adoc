@@ -21,7 +21,7 @@ Add a new permission:
 
 3) In the *New Permission* field, enter the text that describes the new permission.
 
-image::media/Restrict_Z39_50_Sources_by_Permission_Group1.jpg[]
+* image::media/Restrict_Z39_50_Sources_by_Permission_Group1.jpg[]
 
 4) Click *Add*.
 
@@ -38,11 +38,13 @@ Restrict Z39.50 Sources by Permission Group
 
 3) Select the permission that you added to restrict Z39.50 use from the drop down menu.
 
-image::media/Restrict_Z39_50_Sources_by_Permission_Group2.jpg[]
+* image::media/Restrict_Z39_50_Sources_by_Permission_Group2.jpg[]
 
 4) Click *Save*.
 
-5) Add the permission that you created to a user or user group so that they can access the restricted server.
+5) Click *Administration -> Server Administration ->  Permission Groups*
+
+6) Add the permission that you created to a user or user group so that they can access the restricted server.
 
 
 image::media/Restrict_Z39_50_Sources_by_Permission_Group3.jpg[]
@@ -62,7 +64,7 @@ To set up stored credentials for a Z39.50 server:
 
 1) Go to *Administration -> Server Administration ->  Z39.50 Servers*.
 
-2) Select a *Z39.50 Source* by clicking on the hyperlinked source name.  This will take you the Z39.50 Attributes for the source.
+2) Select a *Z39.50 Source* by clicking on the hyperlinked source name (blue name with underline).  This will take you the Z39.50 Attributes for the source.
 
 3) At the top of the screen, select the *org unit* for which you would like to configure the credentials.  
 
