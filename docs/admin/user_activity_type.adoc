@@ -20,7 +20,7 @@ The *Enabled* field allows you to specify which types of user activity that you 
 
 The *Transient* column enables you to decide how many actions you want to track. If you want to track only the last activity, then enter *True.*  If you want to trace all activity by the user, enter *False*.
 
-image::media/User_Activity_Types1A.jpg[User_Activity_Types1A]
+* image::media/User_Activity_Types1A.jpg[User_Activity_Types1A]
 
 
 Using this Feature
