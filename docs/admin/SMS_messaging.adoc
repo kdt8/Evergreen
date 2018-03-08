@@ -42,7 +42,7 @@ To add or edit SMS carriers:
 . Click *Administration* -> *Server Administration* ->  *SMS Carriers*.
 . To add a new carrier, click the *New Carrier* button in the top right corner of the screen.  To edit an existing carrier, double click in any white space in the carrier's row.
 +
-image::media/SMS_Text_Messaging3.jpg[SMS_Text_Messaging3] 
+* image::media/SMS_Text_Messaging3.jpg[SMS_Text_Messaging3] 
 +
 . Enter a (geographical) *Region*.
 . Enter the carrier's *Name*.
