@@ -19,7 +19,7 @@ Staff Accounts
 ~~~~~~~~~~~~~~
 
 New staff accounts are created in much the same way as patron accounts, using
-_Circulation -> Register Patron_ or *Shift+F1*. Select one of the staff
+_Circulation -> Register Patron_. Select one of the staff
 profiles 
 from the _Profile Group_ drop-down menu.
 
@@ -27,8 +27,7 @@ Each new staff account must be assigned a _Working Location_ which determines
 its 
 access level in staff client interfaces.
 
-. To assign a working location open the newly created staff account using *F1* 
-(retrieve patron) or *F4* (patron search).
+. To assign a working location open the newly created staff account, search for a patron.
 . Select _Other -> User Permission Editor_
 . Place a check in the box next to the desired working location, then scroll to
 the bottom of the display and click _Save_.
@@ -40,7 +39,7 @@ Staff Account Permissions
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To view a detailed list of permissions for a particular Evergreen account go to 
-_Admin (-) -> User permission editor_ in the staff client.
+_Administration (-) -> User permission editor_ in the staff client.
 
 Granting Additional Permissions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -51,7 +50,7 @@ permission to process offline transactions, a function which otherwise requires
 an _LSA_ login.
 
 . Log in as a Local System Administrator.
-. Select _Admin (-) -> User Permission Editor_ and enter the staff account 
+. Select _Admininstration (-) -> User Permission Editor_ and enter the staff account 
 barcode when prompted
 +
 OR
