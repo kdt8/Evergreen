@@ -45,15 +45,20 @@ The barcode completion functionality is available at the following interfaces.
 
 .For Actors (Users) Barcodes
  * Lookup Patron by Barcode/Check Out.
+ (Barcode_Check_Out.PNG here)
  * Optionally during check out if library setting "Load patron from Checkout" 
 is set. (Automatically detects if an actor/user barcode is scanned during 
 check out, and starts a new check out session using that user.)
  * OPAC's Staff Client Place Hold.
+ (Barcode_OPAC_Staff_Client_Place_Hold.PNG here)
  
 .For Assets (Copy) Barcodes
  * Check Out.
+ (Barcode_Check_Out.PNG here)
  * Check In.
+ (Barcode_Check_In.PNG here)
  * Item Status / Search for copies by Barcode / Show Item Status by Barcode.
+ (Barcode_Scan_Copies_Item.PNG here)
 
 NOTE: Barcode Completion does not work in the 
  *Search for Patron [by Name]* interface. 
