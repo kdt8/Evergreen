@@ -738,13 +738,13 @@ Fund reporting
 indexterm:[acquisitions,funds,reports]
 indexterm:[reports,funds]
 
-A core source, Fund Summary, is available in the reports interface.  This
+A core source, Fund Summary, is available in Administration -> Reports.  This
 core source enables librarians to easily run a report on fund activity.  Fields
 that are accessible in this interface include Remaining Balance, Total
 Allocated, Total Encumbered, and Total Spent.
 
 
-image::media/Core_Source_1.jpg[Core_Source1]
+*image::media/Core_Source_1.jpg[Core_Source1]
 
 
 
@@ -781,7 +781,7 @@ Setting has been enabled. This setting is available in the Library Setting
 Editor accessible via _Administration_ -> _Local Administration_ -> _Library
 Settings Editor_.
 +
-image::media/Fiscal_Rollover1.jpg[Fiscal_Rollover1]
+*image::media/Fiscal_Rollover1.jpg[Fiscal_Rollover1]
 
 . Notice that the context org unit reflects the context org unit that you
 selected at the top of the Funds screen.
