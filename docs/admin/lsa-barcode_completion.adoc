@@ -101,7 +101,7 @@ ignored.
 .Applies to Items/Users
 One or both of these options must be checked for the rule to have any effect.
 
-image::media/lsa-barcode_completion_fields.png[Barcode Completion Data Fields]
+* image::media/lsa-barcode_completion_fields.png[Barcode Completion Data Fields]
 
 Create, Update, Filter, Delete/Disable Rules
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
