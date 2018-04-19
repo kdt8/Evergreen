@@ -16,7 +16,7 @@ Enable Text Messages
 . Select the setting, *Enable features that send SMS text messages.*
 . Set the value to *True,* and click *Update Setting.*
 
-image::media/SMS_Text_Messaging1.jpg[SMS_Text_Messaging1]
+*image::media/SMS_Text_Messaging1.jpg[SMS_Text_Messaging1]
 
 Authenticate Patrons
 ^^^^^^^^^^^^^^^^^^^^
@@ -30,7 +30,7 @@ To disable the patron login requirement:
 . Select the setting, *Disable auth requirement for texting call numbers*.
 . Set the value to *True,* and click *Update Setting.*
 
-image::media/SMS_Text_Messaging2.jpg[SMS_Text_Messaging2]
+*image::media/SMS_Text_Messaging2.jpg[SMS_Text_Messaging2]
 
 Configure SMS Carriers
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -42,14 +42,14 @@ To add or edit SMS carriers:
 . Click *Administration* -> *Server Administration* ->  *SMS Carriers*.
 . To add a new carrier, click the *New Carrier* button in the top right corner of the screen.  To edit an existing carrier, double click in any white space in the carrier's row.
 +
-image::media/SMS_Text_Messaging3.jpg[SMS_Text_Messaging3] 
+*image::media/SMS_Text_Messaging3.jpg[SMS_Text_Messaging3] 
 +
 . Enter a (geographical) *Region*.
 . Enter the carrier's *Name*.
 . Enter an *Email Gateway.*  The SMS carrier can provide you with the content for this field.  The $number field is converted to the user's phone number when the text message is generated.
 . Check the *Active* box to use this SMS Carrier.
 
-image::media/SMS_Text_Messaging4.jpg[SMS_Text_Messaging4]
+*image::media/SMS_Text_Messaging4.jpg[SMS_Text_Messaging4]
 
 Configure Text Message Templates
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -61,7 +61,7 @@ To configure the text of the SMS text message:
 . Click *Administration* -> *Local Administration* ->  *Notifications/Action Triggers.*
 . Create a new A/T and template, or use or modify an existing template.  For example, a default template, "Hold Ready for Pickup SMS Notification," notifies users that the hold is ready for pickup.  
 +
-image::media/SMS_Text_Messaging5.jpg[SMS_Text_Messaging5]
+*image::media/SMS_Text_Messaging5.jpg[SMS_Text_Messaging5]
 +
 . You can use the  default template, or you can edit the template and add content specific to your library.  Click the hyperlinked name to view and/or edit the hold notice.
 
