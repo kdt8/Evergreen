@@ -140,7 +140,7 @@ Retrieve the patron record as described in the section
 
 Click on _Edit_ from the options that display at the top of the patron record. 
 
-image::media/circulation_patron_records-9_web_client.png[Patron edit with summary display]
+* image::media/circulation_patron_records-9_web_client.png[Patron edit with summary display]
 
 Edit information as required.  When finished, select _Save_.  
 
