@@ -11,9 +11,9 @@ Add a Monograph Part to an Existing Record
 
 To add a monograph part to an existing record in the catalog:  
 
-1. Retrieve a record.
+1. Retrieve a record. Click *Catalouging* from the top menu and retrieve *Bib Record*.
 
-2. Click *Actions for this Record -> Manage Parts*
+2. Click *Monograph Parts*
 +
 image::media/manage_parts_menu.png[Menu: Manage Parts]
 
@@ -26,9 +26,7 @@ you can choose when you create a volume and copy.
 image::media/monograph_parts2.jpg[monograph_parts2]
 
 5. Add a volume and copy.  To add a volume and copy to your workstation
-library, click the *Add Volumes* link in the *Record Summary* at the top
-of the bibliographic record, or click *Actions for this Record -> Add
-Volumes*.
+library, click the *Add Volumes* button. A new window will appear.
 +
 To add a volume and copy to your workstation library or other libraries, click *Actions for this Record -> Holdings Maintenance -> Add Volumes*.  
 +
