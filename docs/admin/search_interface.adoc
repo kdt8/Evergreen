@@ -58,7 +58,7 @@ staff client's Local Administration menu. This can be helpful if you want to
 simplify your patrons' experience by presenting them with only certain
 limiters (e.g. the most commonly used languages in your area).  To do this,
 
-. Click *Administration -> Local Administration -> Search Facet Groups*.
+. Click *Administration -> Local Administration -> Search Filter Groups*.
 . Click *New*.
 . Enter descriptive values into the code and label fields.  The owner needs to
 be set to your consortium.
