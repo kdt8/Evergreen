@@ -46,4 +46,4 @@ Evergreen will save staff searches that are entered through either the basic or 
 
 2. Your search results for the current search will appear in the middle of the screen.  The most recent searches will appear on the left side of the screen.
 
-image::media/Saved_Catalog_Searches_2_22.jpg[Saved_Catalog_Searches_2_22]
+* image::media/Saved_Catalog_Searches_2_22.jpg[Saved_Catalog_Searches_2_22]
